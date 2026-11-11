@@ -1,0 +1,4 @@
+ - exactly the same hover behaviour as current
+ - full path to image file required in the span's data attribute
+ - text in the span can be anything - does not need to refer to the image filename
+ - package as a js file and a css file to be sent to the owner of exolve for potential inclusion
